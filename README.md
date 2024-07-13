@@ -10,12 +10,27 @@
 | 21/1031468 | Pedro Victor Salerno Martins    |
 
 ## Sobre 
-Resolver duas questões dificeis e uma media utilizando os conceitos de grafos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
+Resolver duas questões dificeis e duas media utilizando os conceitos de grafos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
 ## Video de apresentação
 <!-- O video de apresentação pode ser encontrado em [link](video.mp4) -->
 
 ## Screenshots
+
+**Questão 787 após submição**
+
+![img787](assets/img787.png)
+
+
+**Questão 882 após submição**
+
+![img882](assets/img882.png)
+
+
+**Questão 1368 após submição**
+
+![img1368](assets/img1368.png)
+
 
 **Questão 1584 após submição**
 
@@ -33,8 +48,9 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 
 As questões são:
 
-<!-- - [Questão 797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
-- [Questão 332](https://leetcode.com/problems/reconstruct-itinerary/description/)
-- [Questão 2392](https://leetcode.com/problems/build-a-matrix-with-conditions/) -->
+[Questão 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+[Questão 882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/?)
+[Questão 1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+[Questão 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) 
 
 Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
