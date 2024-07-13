@@ -17,18 +17,10 @@ Resolver duas questões dificeis e uma media utilizando os conceitos de grafos a
 
 ## Screenshots
 
-<!-- **Questão 797 após submição**
+**Questão 1584 após submição**
 
-![img797](assets/img797.png)
+![img1584](assets/img1584.png)
 
-
-**Questão 332 após submição**
-
-![img](assets/img332.png)
-
-**Questão 2392 após submição**
-
-![img](assets/img2392.png) -->
 
 ## Instalação
 
