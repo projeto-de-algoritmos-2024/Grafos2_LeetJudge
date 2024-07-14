@@ -1,5 +1,5 @@
 import unittest
-from Q787 import Solution 
+from questao787 import Solution 
 
 class TestSolution(unittest.TestCase):
     def setUp(self):
