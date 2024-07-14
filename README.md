@@ -19,7 +19,7 @@ Resolver duas questões dificeis e duas media utilizando os conceitos de grafos 
 
 **Questão 743 após submição**
 
-![img787](assets/img787.png)
+![img787](assets/img743.png)
 
 
 **Questão 882 após submição**
