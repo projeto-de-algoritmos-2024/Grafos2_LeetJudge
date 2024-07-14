@@ -13,7 +13,7 @@
 Resolver duas questões dificeis e duas media utilizando os conceitos de grafos aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
 ## Video de apresentação
-<!-- O video de apresentação pode ser encontrado em [link](video.mp4) -->
+O video de apresentação pode ser encontrado em [link](https://youtu.be/ADuiSTpsiKA)
 
 ## Screenshots
 
