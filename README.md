@@ -17,7 +17,7 @@ Resolver duas questões dificeis e duas media utilizando os conceitos de grafos 
 
 ## Screenshots
 
-**Questão 787 após submição**
+**Questão 743 após submição**
 
 ![img787](assets/img787.png)
 
@@ -48,7 +48,7 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 
 As questões são:
 
-- [Questão 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+- [Questão 743](https://leetcode.com/problems/network-delay-time/description/)
 - [Questão 882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
 - [Questão 1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 - [Questão 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) 
