@@ -44,11 +44,3 @@ class Grafo:
                     heapq.heappush(heap, (custo, v))
 
         return custoTotal
-
-
-
-# # Teste
-# sol = Solution()
-# custoMinimo = sol.minCostConnectPoints([[0, 0], [2, 2], [3, 10], [5, 2], [7, 0]])
-
-# print(f"\nCusto mínimo para conectar todos os pontos: {custoMinimo}\n")
